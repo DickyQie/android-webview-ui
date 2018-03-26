@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebViewErrorDemo.iml" filepath="$PROJECT_DIR$/WebViewErrorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-webview-jsbridge.iml" filepath="$PROJECT_DIR$/android-webview-jsbridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
